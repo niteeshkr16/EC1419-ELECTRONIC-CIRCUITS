@@ -6,4 +6,18 @@
 
 ## TINKER CAD CIRCUIT DIAGRAM
 
+**Full wave rectifier without capacitor filter:**
+
+**Input:**
+<img width="1920" height="866" alt="Screenshot 2026-05-29 133832" src="https://github.com/user-attachments/assets/d87e6e39-f6d7-4df4-9bbb-1b5f7fa524b2" />
+**Output:**
+<img width="1920" height="863" alt="Screenshot 2026-05-29 133847" src="https://github.com/user-attachments/assets/c854ee0b-6fc7-4e86-8c4c-f5def9289868" />
+
+**Full wave rectifier with capacitor filter:**
+
+**Input:**
+<img width="1920" height="869" alt="Screenshot 2026-05-29 132330" src="https://github.com/user-attachments/assets/276326b8-0fde-4aeb-8c54-df423cf4f5d8" />
+**Output:**
+<img width="1920" height="867" alt="Screenshot 2026-05-29 132348" src="https://github.com/user-attachments/assets/e7c05436-a07f-460c-8e51-3bdef3aa5755" />
+
 <img width="860" height="227" alt="image" src="https://github.com/user-attachments/assets/2cd08752-9469-424d-8283-a306c0ccac15" />
